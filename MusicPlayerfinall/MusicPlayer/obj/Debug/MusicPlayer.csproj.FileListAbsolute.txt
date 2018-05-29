@@ -1,0 +1,88 @@
+c:\users\khell\source\repos\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+c:\users\khell\source\repos\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+c:\users\khell\source\repos\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+c:\users\khell\source\repos\MusicPlayer\MusicPlayer\bin\Debug\NAudio.dll
+c:\users\khell\source\repos\MusicPlayer\MusicPlayer\bin\Debug\NAudio.xml
+c:\users\khell\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+c:\users\khell\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+c:\users\khell\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+c:\users\khell\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache
+c:\users\khell\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+c:\users\khell\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+c:\users\khell\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+c:\users\khell\source\repos\MusicPlayer\MusicPlayer\bin\Debug\DatabaseMusic.mdf
+c:\users\khell\source\repos\MusicPlayer\MusicPlayer\bin\Debug\DatabaseMusic_log.ldf
+D:\MusicPlayer\MusicPlayer\bin\Debug\DatabaseMusic.mdf
+D:\MusicPlayer\MusicPlayer\bin\Debug\DatabaseMusic_log.ldf
+D:\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+D:\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+D:\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+D:\MusicPlayer\MusicPlayer\bin\Debug\NAudio.dll
+D:\MusicPlayer\MusicPlayer\bin\Debug\NAudio.xml
+D:\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+D:\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+D:\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+D:\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+D:\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+D:\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CopyComplete
+D:\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+D:\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+G:\MusicPlayer\MusicPlayer\bin\Debug\DatabaseMusic.mdf
+G:\MusicPlayer\MusicPlayer\bin\Debug\DatabaseMusic_log.ldf
+G:\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+G:\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+G:\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+G:\MusicPlayer\MusicPlayer\bin\Debug\NAudio.dll
+G:\MusicPlayer\MusicPlayer\bin\Debug\NAudio.xml
+G:\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+G:\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+G:\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+G:\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache
+G:\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+G:\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+G:\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+F:\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+F:\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+F:\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+G:\MusicPlayer popsuty\MusicPlayer\bin\Debug\DatabaseMusic.mdf
+G:\MusicPlayer popsuty\MusicPlayer\bin\Debug\DatabaseMusic_log.ldf
+G:\MusicPlayer popsuty\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+G:\MusicPlayer popsuty\MusicPlayer\bin\Debug\MusicPlayer.exe
+G:\MusicPlayer popsuty\MusicPlayer\bin\Debug\MusicPlayer.pdb
+G:\MusicPlayer popsuty\MusicPlayer\bin\Debug\NAudio.dll
+G:\MusicPlayer popsuty\MusicPlayer\bin\Debug\NAudio.xml
+G:\MusicPlayer popsuty\MusicPlayer\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+G:\MusicPlayer popsuty\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+G:\MusicPlayer popsuty\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+G:\MusicPlayer popsuty\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache
+G:\MusicPlayer popsuty\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+G:\MusicPlayer popsuty\MusicPlayer\obj\Debug\MusicPlayer.exe
+G:\MusicPlayer popsuty\MusicPlayer\obj\Debug\MusicPlayer.pdb
+I:\4 semestr\Programowanie\MusicPlayer finall\MusicPlayer\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+I:\4 semestr\Programowanie\MusicPlayer finall\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+I:\4 semestr\Programowanie\MusicPlayer finall\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache
+I:\4 semestr\Programowanie\MusicPlayer finall\MusicPlayer\obj\Debug\MusicPlayer.exe
+I:\4 semestr\Programowanie\MusicPlayer finall\MusicPlayer\obj\Debug\MusicPlayer.pdb
+I:\4 semestr\Programowanie\MusicPlayer finall\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+I:\4 semestr\Programowanie\MusicPlayer finall\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+I:\4 semestr\Programowanie\MusicPlayer finall\MusicPlayer\bin\Debug\DatabaseMusic.mdf
+I:\4 semestr\Programowanie\MusicPlayer finall\MusicPlayer\bin\Debug\DatabaseMusic_log.ldf
+I:\4 semestr\Programowanie\MusicPlayer finall\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+I:\4 semestr\Programowanie\MusicPlayer finall\MusicPlayer\bin\Debug\MusicPlayer.exe
+I:\4 semestr\Programowanie\MusicPlayer finall\MusicPlayer\bin\Debug\MusicPlayer.pdb
+I:\4 semestr\Programowanie\MusicPlayer finall\MusicPlayer\bin\Debug\NAudio.dll
+I:\4 semestr\Programowanie\MusicPlayer finall\MusicPlayer\bin\Debug\NAudio.xml
+I:\4semestr\Programowanie\MusicPlayerfinall\MusicPlayer\bin\Debug\DatabaseMusic.mdf
+I:\4semestr\Programowanie\MusicPlayerfinall\MusicPlayer\bin\Debug\DatabaseMusic_log.ldf
+I:\4semestr\Programowanie\MusicPlayerfinall\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+I:\4semestr\Programowanie\MusicPlayerfinall\MusicPlayer\bin\Debug\MusicPlayer.exe
+I:\4semestr\Programowanie\MusicPlayerfinall\MusicPlayer\bin\Debug\MusicPlayer.pdb
+I:\4semestr\Programowanie\MusicPlayerfinall\MusicPlayer\bin\Debug\NAudio.dll
+I:\4semestr\Programowanie\MusicPlayerfinall\MusicPlayer\bin\Debug\NAudio.xml
+I:\4semestr\Programowanie\MusicPlayerfinall\MusicPlayer\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+I:\4semestr\Programowanie\MusicPlayerfinall\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+I:\4semestr\Programowanie\MusicPlayerfinall\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+I:\4semestr\Programowanie\MusicPlayerfinall\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache
+I:\4semestr\Programowanie\MusicPlayerfinall\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+I:\4semestr\Programowanie\MusicPlayerfinall\MusicPlayer\obj\Debug\MusicPlayer.exe
+I:\4semestr\Programowanie\MusicPlayerfinall\MusicPlayer\obj\Debug\MusicPlayer.pdb
